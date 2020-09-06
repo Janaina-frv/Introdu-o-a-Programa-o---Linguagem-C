@@ -59,3 +59,12 @@ Netuno 1,18 kg
 Plutão 0,11 kg 
 
 Nesse contexto, faça um algoritmo que leia o peso de uma pessoa e o planeta que ela deseja saber sobre o peso e utilize a estrutura escolha-caso para calcular e exibir essa informação. 
+
+- Fatorial
+
+Faça um programa que leia um número inteiro positivo N e calcule o fatorial desse número. 
+Exemplo: Fatorial 5 = 5 * 4* 3 * 2 * 1
+
+- Registro de Animais
+
+Elabore um programa que leia vários registros de animais contendo os dados: nome, raça, data de nascimento e sexo. Os registros devem ser lidos enquanto o usuário desejar. O máximo de animais cadastrados é 50. Ao final, todos os registros devem ser impressos.
